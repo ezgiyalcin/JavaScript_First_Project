@@ -1,4 +1,4 @@
-# bootstrap_landing_page
+# JavaScript Pokedex Project
  <h1> First JavaScript Project of My Software Journey</h1>
 
  
